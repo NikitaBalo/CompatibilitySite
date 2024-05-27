@@ -1,0 +1,5 @@
+{
+  "databaseURI": "mongodb://localhost:27017/Calendar",
+  "port": 5000,
+  "secret": "19fiolosu"
+}
